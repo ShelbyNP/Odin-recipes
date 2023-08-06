@@ -6,4 +6,4 @@
 <ul>
     <li>Asian Chicken Wraps</li>
     <li>Enchiladas</li>
-    <li>Japanese Curry </li>
+    <li>Japanese Curry</li>
