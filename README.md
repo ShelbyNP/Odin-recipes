@@ -1,5 +1,3 @@
-# Odin-recipes
-
 <p><h1>Odin Project 1: Recipes</h1>
     <p>This is my first official project for the Odin Project.
     <p>The intent of this project is to practice using HTML to create a webpage with several recipes in different files. 
